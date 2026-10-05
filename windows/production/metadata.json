@@ -1,15 +1,15 @@
 {
+  "appId": "com.polosys.books",
+  "bundleUrl": "windows/production/bundles/polosys-1.0.1-ota.1.zip",
   "rollback": {
     "forceRollback": false,
+    "minSafeBundleId": "1.0.1-ota.1",
     "enabled": true,
-    "reason": "",
-    "minSafeBundleId": "1.0.0-ota.4"
+    "reason": ""
   },
-  "channel": "production",
-  "updatedAt": "2026-10-05T06:29:15Z",
-  "version": "1.0.0-ota.4",
-  "bundleId": "1.0.0-ota.4",
+  "updatedAt": "2026-10-05T07:02:53Z",
+  "bundleId": "1.0.1-ota.1",
   "platform": "windows",
-  "bundleUrl": "windows/production/bundles/polosys-1.0.0-ota.4.zip",
-  "appId": "com.polosys.books"
+  "version": "1.0.1-ota.1",
+  "channel": "production"
 }
