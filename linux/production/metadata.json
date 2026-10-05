@@ -1,0 +1,15 @@
+{
+  "appId": "com.polosys.books",
+  "platform": "linux",
+  "channel": "production",
+  "version": "1.0.9-ota.1",
+  "bundleId": "1.0.9-ota.1",
+  "bundleUrl": "linux/production/bundles/polosys-1.0.9-ota.1.zip",
+  "rollback": {
+    "enabled": true,
+    "reason": "",
+    "minSafeBundleId": "1.0.9-ota.1",
+    "forceRollback": false
+  },
+  "updatedAt": "2026-10-05T12:40:12Z"
+}
