@@ -1,0 +1,15 @@
+{
+  "rollback": {
+    "forceRollback": false,
+    "enabled": true,
+    "reason": "",
+    "minSafeBundleId": "1.0.0-ota.4"
+  },
+  "channel": "production",
+  "updatedAt": "2026-10-05T06:29:15Z",
+  "version": "1.0.0-ota.4",
+  "bundleId": "1.0.0-ota.4",
+  "platform": "windows",
+  "bundleUrl": "windows/production/bundles/polosys-1.0.0-ota.4.zip",
+  "appId": "com.polosys.books"
+}
