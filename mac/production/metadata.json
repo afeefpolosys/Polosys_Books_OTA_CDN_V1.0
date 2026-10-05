@@ -2,14 +2,14 @@
   "appId": "com.polosys.books",
   "platform": "mac",
   "channel": "production",
-  "version": "1.0.1-ota.1",
-  "bundleId": "1.0.1-ota.1",
-  "bundleUrl": "mac/production/bundles/polosys-1.0.1-ota.1.zip",
+  "version": "1.0.5-ota.1",
+  "bundleId": "1.0.5-ota.1",
+  "bundleUrl": "mac/production/bundles/polosys-1.0.5-ota.1.zip",
   "rollback": {
     "enabled": true,
     "reason": "",
-    "minSafeBundleId": "1.0.1-ota.1",
+    "minSafeBundleId": "1.0.5-ota.1",
     "forceRollback": false
   },
-  "updatedAt": "2026-10-05T06:57:04Z"
+  "updatedAt": "2026-10-05T10:38:17Z"
 }
